@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chit Assuit\\# Problem - N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958DBA07-3A65-4369-893F-918195A466B8}|# Problem - N\\# Problem - N.vcxproj|D:\\Chit Assuit\\# Problem - N\\# Problem - N\\# Problem - N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{958DBA07-3A65-4369-893F-918195A466B8}|# Problem - N\\# Problem - N.vcxproj|solutionrelative:# Problem - N\\# Problem - N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "# Problem - N.cpp",
+              "DocumentMoniker": "D:\\Chit Assuit\\# Problem - N\\# Problem - N\\# Problem - N.cpp",
+              "RelativeDocumentMoniker": "# Problem - N\\# Problem - N.cpp",
+              "ToolTip": "D:\\Chit Assuit\\# Problem - N\\# Problem - N\\# Problem - N.cpp",
+              "RelativeToolTip": "# Problem - N\\# Problem - N.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:41:12.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

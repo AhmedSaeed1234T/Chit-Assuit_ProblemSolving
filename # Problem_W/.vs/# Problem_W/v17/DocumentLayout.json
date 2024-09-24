@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chit Assuit\\# Problem_W\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D4D681-35AE-4CB1-A741-4C50C95FA9BE}|# Problem_W\\# Problem_W.vcxproj|D:\\Chit Assuit\\# Problem_W\\# Problem_W\\# Problem_W.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7D4D681-35AE-4CB1-A741-4C50C95FA9BE}|# Problem_W\\# Problem_W.vcxproj|solutionrelative:# Problem_W\\# Problem_W.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "# Problem_W.cpp",
+              "DocumentMoniker": "D:\\Chit Assuit\\# Problem_W\\# Problem_W\\# Problem_W.cpp",
+              "RelativeDocumentMoniker": "# Problem_W\\# Problem_W.cpp",
+              "ToolTip": "D:\\Chit Assuit\\# Problem_W\\# Problem_W\\# Problem_W.cpp",
+              "RelativeToolTip": "# Problem_W\\# Problem_W.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T13:49:23.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

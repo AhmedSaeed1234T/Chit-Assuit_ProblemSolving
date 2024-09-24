@@ -1,0 +1,3 @@
+﻿  # Problem_U.cpp
+D:\Chit Assuit\(8,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  # Problem_U.vcxproj -> D:\Chit Assuit\# Problem_U\# Problem_U\x64\Debug\# Problem_U.exe
